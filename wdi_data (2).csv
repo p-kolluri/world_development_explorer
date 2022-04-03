@@ -1,0 +1,953 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,1990,2960.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+1,1991,2740.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+2,1992,1430.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+3,1993,1360.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+4,1994,1300.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+5,1995,1250.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+6,1996,1180.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+7,1997,1100.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+8,1998,1050.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+9,1999,820.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+10,2000,770.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+11,2001,810.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+12,2002,1100.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+13,2003,1350.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+14,2004,1130.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+15,2005,1640.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+16,2006,1940.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+17,2007,2360.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+18,2008,4390.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+19,2009,6000.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+20,2010,8670.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+21,2011,12260.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+22,2012,10450.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+23,2013,8510.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+24,2014,7810.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+25,2015,7990.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+26,2016,7390.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+27,2017,7380.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+28,2018,7440.0,EN.ATM.CO2E.KT,AFG,Afghanistan,South Asia,Low income,IDA
+29,1990,11520.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+30,1991,10830.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+31,1992,11820.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+32,1993,12570.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+33,1994,13540.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+34,1995,16550.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+35,1996,16820.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+36,1997,18970.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+37,1998,19250.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+38,1999,20110.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+39,2000,21650.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+40,2001,25780.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+41,2002,27430.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+42,2003,28630.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+43,2004,30530.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+44,2005,32710.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+45,2006,35900.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+46,2007,37990.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+47,2008,41580.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+48,2009,44750.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+49,2010,50580.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+50,2011,54420.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+51,2012,57990.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+52,2013,60580.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+53,2014,63800.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+54,2015,71690.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+55,2016,73740.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+56,2017,78710.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+57,2018,82760.0,EN.ATM.CO2E.KT,BGD,Bangladesh,South Asia,Lower middle income,IDA
+58,1990,130.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+59,1991,170.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+60,1992,200.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+61,1993,170.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+62,1994,190.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+63,1995,230.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+64,1996,280.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+65,1997,370.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+66,1998,360.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+67,1999,360.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+68,2000,370.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+69,2001,360.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+70,2002,400.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+71,2003,360.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+72,2004,310.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+73,2005,410.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+74,2006,400.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+75,2007,390.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+76,2008,400.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+77,2009,370.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+78,2010,470.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+79,2011,670.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+80,2012,760.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+81,2013,850.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+82,2014,940.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+83,2015,960.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+84,2016,1230.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+85,2017,1330.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+86,2018,1380.0,EN.ATM.CO2E.KT,BTN,Bhutan,South Asia,Lower middle income,IDA
+87,1990,419120.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+88,1991,412930.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+89,1992,426000.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+90,1993,422680.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+91,1994,438820.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+92,1995,449500.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+93,1996,463160.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+94,1997,478530.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+95,1998,486760.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+96,1999,495140.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+97,2000,515000.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+98,2001,506940.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+99,2002,525470.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+100,2003,545360.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+101,2004,537250.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+102,2005,549970.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+103,2006,541070.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+104,2007,571310.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+105,2008,550200.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+106,2009,520800.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+107,2010,535030.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+108,2011,547720.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+109,2012,547140.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+110,2013,556350.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+111,2014,561830.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+112,2015,558800.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+113,2016,550480.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+114,2017,562260.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+115,2018,574400.0,EN.ATM.CO2E.KT,CAN,Canada,North America,High income,Not classified
+116,1990,562480.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+117,1991,607340.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+118,1992,630260.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+119,1993,652470.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+120,1994,687950.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+121,1995,741100.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+122,1996,776720.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+123,1997,821480.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+124,1998,839830.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+125,1999,904090.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+126,2000,940170.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+127,2001,953880.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+128,2002,987530.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+129,2003,1015890.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+130,2004,1087190.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+131,2005,1137740.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+132,2006,1214250.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+133,2007,1336100.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+134,2008,1423880.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+135,2009,1568530.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+136,2010,1665310.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+137,2011,1760800.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+138,2012,1908570.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+139,2013,1966810.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+140,2014,2136870.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+141,2015,2150220.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+142,2016,2183280.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+143,2017,2301440.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+144,2018,2434520.0,EN.ATM.CO2E.KT,IND,India,South Asia,Lower middle income,IBRD
+145,1990,160.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+146,1991,160.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+147,1992,230.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+148,1993,200.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+149,1994,200.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+150,1995,260.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+151,1996,280.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+152,1997,340.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+153,1998,310.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+154,1999,430.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+155,2000,460.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+156,2001,480.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+157,2002,610.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+158,2003,530.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+159,2004,740.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+160,2005,710.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+161,2006,870.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+162,2007,870.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+163,2008,870.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+164,2009,910.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+165,2010,960.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+166,2011,1010.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+167,2012,1140.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+168,2013,1130.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+169,2014,1360.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+170,2015,1350.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+171,2016,1750.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+172,2017,1820.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+173,2018,1910.0,EN.ATM.CO2E.KT,MDV,Maldives,South Asia,Upper middle income,IDA
+174,1990,940.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+175,1991,1180.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+176,1992,1230.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+177,1993,1410.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+178,1994,1740.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+179,1995,1890.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+180,1996,1960.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+181,1997,2190.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+182,1998,2320.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+183,1999,3120.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+184,2000,3220.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+185,2001,3470.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+186,2002,2790.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+187,2003,3020.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+188,2004,2810.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+189,2005,3190.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+190,2006,2620.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+191,2007,2690.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+192,2008,2990.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+193,2009,3880.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+194,2010,4640.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+195,2011,5200.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+196,2012,6000.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+197,2013,6090.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+198,2014,7130.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+199,2015,6460.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+200,2016,9340.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+201,2017,11030.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+202,2018,12030.0,EN.ATM.CO2E.KT,NPL,Nepal,South Asia,Lower middle income,IDA
+203,1990,61050.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+204,1991,60310.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+205,1992,66920.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+206,1993,73740.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+207,1994,76250.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+208,1995,82730.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+209,1996,85820.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+210,1997,89320.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+211,1998,90170.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+212,1999,98750.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+213,2000,98370.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+214,2001,99810.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+215,2002,102300.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+216,2003,105660.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+217,2004,118650.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+218,2005,121670.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+219,2006,132480.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+220,2007,146260.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+221,2008,142160.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+222,2009,145140.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+223,2010,140620.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+224,2011,141640.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+225,2012,143750.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+226,2013,145100.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+227,2014,153670.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+228,2015,163590.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+229,2016,180570.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+230,2017,197700.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+231,2018,208370.0,EN.ATM.CO2E.KT,PAK,Pakistan,South Asia,Lower middle income,Blend
+232,1990,3840.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+233,1991,3980.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+234,1992,5250.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+235,1993,5090.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+236,1994,5770.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+237,1995,5820.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+238,1996,8360.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+239,1997,8340.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+240,1998,8610.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+241,1999,9500.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+242,2000,10930.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+243,2001,10850.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+244,2002,11380.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+245,2003,12410.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+246,2004,12870.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+247,2005,13980.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+248,2006,12410.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+249,2007,13590.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+250,2008,12810.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+251,2009,12290.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+252,2010,13070.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+253,2011,15420.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+254,2012,16830.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+255,2013,14480.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+256,2014,17600.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+257,2015,20360.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+258,2016,21930.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+259,2017,23310.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+260,2018,21630.0,EN.ATM.CO2E.KT,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+261,1990,4844990.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+262,1991,4808090.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+263,1992,4880200.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+264,1993,5000350.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+265,1994,5073230.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+266,1995,5126900.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+267,1996,5283110.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+268,1997,5547990.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+269,1998,5590700.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+270,1999,5610300.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+271,2000,5776410.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+272,2001,5749250.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+273,2002,5594160.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+274,2003,5659630.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+275,2004,5740030.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+276,2005,5756080.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+277,2006,5656580.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+278,2007,5740270.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+279,2008,5563340.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+280,2009,5159550.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+281,2010,5392870.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+282,2011,5172100.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+283,2012,4950210.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+284,2013,5089500.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+285,2014,5102580.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+286,2015,4982790.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+287,2016,4888640.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+288,2017,4813720.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+289,2018,4981300.0,EN.ATM.CO2E.KT,USA,United States,North America,High income,Not classified
+290,1990,11125.3916,AG.LND.TOTL.UR.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+291,2000,11125.3916,AG.LND.TOTL.UR.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+292,2010,11125.3916,AG.LND.TOTL.UR.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+293,1990,38.61519241,AG.LND.TOTL.UR.K2,BMU,Bermuda,North America,High income,Not classified
+294,2000,38.61519241,AG.LND.TOTL.UR.K2,BMU,Bermuda,North America,High income,Not classified
+295,2010,38.61519241,AG.LND.TOTL.UR.K2,BMU,Bermuda,North America,High income,Not classified
+296,1990,126511.1641,AG.LND.TOTL.UR.K2,CAN,Canada,North America,High income,Not classified
+297,2000,126511.1641,AG.LND.TOTL.UR.K2,CAN,Canada,North America,High income,Not classified
+298,2010,126511.1641,AG.LND.TOTL.UR.K2,CAN,Canada,North America,High income,Not classified
+299,1990,222688.2344,AG.LND.TOTL.UR.K2,IND,India,South Asia,Lower middle income,IBRD
+300,2000,222688.2344,AG.LND.TOTL.UR.K2,IND,India,South Asia,Lower middle income,IBRD
+301,2010,222688.2344,AG.LND.TOTL.UR.K2,IND,India,South Asia,Lower middle income,IBRD
+302,1990,0.0,AG.LND.TOTL.UR.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+303,2000,0.0,AG.LND.TOTL.UR.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+304,2010,0.0,AG.LND.TOTL.UR.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+305,1990,35871.94141,AG.LND.TOTL.UR.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+306,2000,35871.94141,AG.LND.TOTL.UR.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+307,2010,35871.94141,AG.LND.TOTL.UR.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+308,1990,4016.146484,AG.LND.TOTL.UR.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+309,2000,4016.146484,AG.LND.TOTL.UR.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+310,2010,4016.146484,AG.LND.TOTL.UR.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+311,1990,802053.5923,AG.LND.TOTL.UR.K2,USA,United States,North America,High income,Not classified
+312,2000,802053.5923,AG.LND.TOTL.UR.K2,USA,United States,North America,High income,Not classified
+313,2010,802053.5923,AG.LND.TOTL.UR.K2,USA,United States,North America,High income,Not classified
+314,1990,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+315,1991,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+316,1992,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+317,1993,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+318,1994,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+319,1995,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+320,1996,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+321,1997,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+322,1998,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+323,1999,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+324,2000,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+325,2001,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+326,2002,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+327,2003,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+328,2004,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+329,2005,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+330,2006,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+331,2007,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+332,2008,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+333,2009,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+334,2010,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+335,2011,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+336,2012,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+337,2013,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+338,2014,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+339,2015,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+340,2016,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+341,2017,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+342,2018,12084.4,AG.LND.FRST.K2,AFG,Afghanistan,South Asia,Low income,IDA
+343,1990,19203.3,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+344,1991,19203.298,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+345,1992,19203.296,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+346,1993,19203.294,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+347,1994,19203.292,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+348,1995,19203.29,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+349,1996,19203.289,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+350,1997,19203.287,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+351,1998,19203.285,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+352,1999,19203.283,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+353,2000,19203.2809,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+354,2001,19171.295,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+355,2002,19139.309,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+356,2003,19107.323,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+357,2004,19075.337,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+358,2005,19043.351,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+359,2006,19011.365,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+360,2007,18979.379,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+361,2008,18947.393,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+362,2009,18915.406,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+363,2010,18883.4204,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+364,2011,18873.536,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+365,2012,18863.652,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+366,2013,18853.768,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+367,2014,18843.884,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+368,2015,18834.0,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+369,2016,18834.0,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+370,2017,18834.0,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+371,2018,18834.0,AG.LND.FRST.K2,BGD,Bangladesh,South Asia,Lower middle income,IDA
+372,1990,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+373,1991,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+374,1992,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+375,1993,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+376,1994,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+377,1995,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+378,1996,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+379,1997,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+380,1998,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+381,1999,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+382,2000,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+383,2001,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+384,2002,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+385,2003,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+386,2004,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+387,2005,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+388,2006,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+389,2007,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+390,2008,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+391,2009,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+392,2010,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+393,2011,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+394,2012,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+395,2013,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+396,2014,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+397,2015,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+398,2016,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+399,2017,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+400,2018,10.0,AG.LND.FRST.K2,BMU,Bermuda,North America,High income,Not classified
+401,1990,25067.2,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+402,1991,25166.48,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+403,1992,25265.76,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+404,1993,25365.04,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+405,1994,25464.32,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+406,1995,25563.6,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+407,1996,25662.88,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+408,1997,25762.16,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+409,1998,25861.44,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+410,1999,25960.72,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+411,2000,26060.0,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+412,2001,26159.29,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+413,2002,26258.58,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+414,2003,26357.87,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+415,2004,26457.16,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+416,2005,26556.45,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+417,2006,26655.74,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+418,2007,26755.03,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+419,2008,26854.32,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+420,2009,26953.61,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+421,2010,27052.9,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+422,2011,27072.68,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+423,2012,27092.46,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+424,2013,27112.24,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+425,2014,27132.02,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+426,2015,27151.8,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+427,2016,27171.6,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+428,2017,27191.4,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+429,2018,27211.2,AG.LND.FRST.K2,BTN,Bhutan,South Asia,Lower middle income,IDA
+430,1990,3482729.3,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+431,1991,3482258.34,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+432,1992,3481787.38,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+433,1993,3481316.42,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+434,1994,3480845.46,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+435,1995,3480374.5,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+436,1996,3479903.54,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+437,1997,3479432.58,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+438,1998,3478961.62,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+439,1999,3478490.66,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+440,2000,3478019.7,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+441,2001,3477539.94,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+442,2002,3477060.18,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+443,2003,3476580.42,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+444,2004,3476100.66,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+445,2005,3475620.9,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+446,2006,3475141.14,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+447,2007,3474661.38,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+448,2008,3474181.62,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+449,2009,3473701.86,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+450,2010,3473222.1,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+451,2011,3472809.1,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+452,2012,3472396.1,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+453,2013,3471983.1,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+454,2014,3471570.1,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+455,2015,3471157.1,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+456,2016,3470760.4,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+457,2017,3470390.5,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+458,2018,3470020.7,AG.LND.FRST.K2,CAN,Canada,North America,High income,Not classified
+459,1990,639380.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+460,1991,643033.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+461,1992,646686.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+462,1993,650339.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+463,1994,653992.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+464,1995,657645.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+465,1996,661298.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+466,1997,664951.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+467,1998,668604.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+468,1999,672257.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+469,2000,675910.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+470,2001,677815.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+471,2002,679720.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+472,2003,681625.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+473,2004,683530.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+474,2005,685435.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+475,2006,687340.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+476,2007,689245.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+477,2008,691150.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+478,2009,693055.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+479,2010,694960.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+480,2011,697624.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+481,2012,700288.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+482,2013,702952.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+483,2014,705616.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+484,2015,708280.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+485,2016,710944.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+486,2017,713608.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+487,2018,716272.0,AG.LND.FRST.K2,IND,India,South Asia,Lower middle income,IBRD
+488,1990,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+489,1991,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+490,1992,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+491,1993,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+492,1994,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+493,1995,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+494,1996,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+495,1997,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+496,1998,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+497,1999,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+498,2000,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+499,2001,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+500,2002,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+501,2003,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+502,2004,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+503,2005,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+504,2006,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+505,2007,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+506,2008,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+507,2009,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+508,2010,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+509,2011,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+510,2012,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+511,2013,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+512,2014,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+513,2015,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+514,2016,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+515,2017,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+516,2018,8.2,AG.LND.FRST.K2,MDV,Maldives,South Asia,Upper middle income,IDA
+517,1990,56720.0,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+518,1991,56828.76,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+519,1992,56937.52,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+520,1993,57046.28,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+521,1994,57155.04,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+522,1995,57263.8,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+523,1996,57372.56,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+524,1997,57481.32,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+525,1998,57590.08,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+526,1999,57698.84,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+527,2000,59707.6,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+528,2001,57988.87,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+529,2002,58170.14,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+530,2003,58351.41,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+531,2004,58532.68,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+532,2005,58713.95,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+533,2006,58895.22,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+534,2007,59076.49,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+535,2008,59257.76,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+536,2009,59439.03,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+537,2010,59620.3,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+538,2011,59620.3,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+539,2012,59620.3,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+540,2013,59620.3,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+541,2014,59620.3,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+542,2015,59620.3,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+543,2016,59620.3,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+544,2017,59620.3,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+545,2018,59620.3,AG.LND.FRST.K2,NPL,Nepal,South Asia,Lower middle income,IDA
+546,1990,1447.4,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+547,1991,49392.37,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+548,1992,48916.84,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+549,1993,48441.31,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+550,1994,47965.78,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+551,1995,47490.25,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+552,1996,47014.72,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+553,1997,46539.19,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+554,1998,46063.66,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+555,1999,45588.13,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+556,2000,45112.6,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+557,2001,44695.07,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+558,2002,44277.54,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+559,2003,43860.01,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+560,2004,43442.48,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+561,2005,43024.95,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+562,2006,42607.42,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+563,2007,42189.89,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+564,2008,41772.36,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+565,2009,41354.83,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+566,2010,40937.3,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+567,2011,40615.04,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+568,2012,40292.78,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+569,2013,39970.52,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+570,2014,39648.26,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+571,2015,39326.0,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+572,2016,38682.4,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+573,2017,38499.2,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+574,2018,38085.8,AG.LND.FRST.K2,PAK,Pakistan,South Asia,Lower middle income,Blend
+575,1990,23503.3,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+576,1991,23319.39,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+577,1992,23135.48,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+578,1993,22951.57,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+579,1994,22767.66,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+580,1995,22583.75,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+581,1996,22399.84,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+582,1997,22215.93,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+583,1998,22032.02,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+584,1999,21848.11,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+585,2000,21664.2,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+586,2001,21601.4,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+587,2002,21538.6,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+588,2003,21475.8,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+589,2004,21413.0,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+590,2005,21350.2,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+591,2006,21287.4,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+592,2007,21224.6,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+593,2008,21161.8,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+594,2009,21099.0,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+595,2010,21036.2,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+596,2011,21086.6,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+597,2012,21137.0,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+598,2013,21187.4,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+599,2014,21237.8,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+600,2015,21288.2,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+601,2016,21256.6,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+602,2017,21225.0,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+603,2018,21193.4,AG.LND.FRST.K2,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+604,1990,3024500.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+605,1991,3025586.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+606,1992,3026672.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+607,1993,3027758.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+608,1994,3028844.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+609,1995,3029930.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+610,1996,3031016.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+611,1997,3032102.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+612,1998,3033188.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+613,1999,3034274.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+614,2000,3035360.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+615,2001,3040544.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+616,2002,3045728.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+617,2003,3050912.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+618,2004,3056096.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+619,2005,3061280.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+620,2006,3066464.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+621,2007,3071648.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+622,2008,3076832.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+623,2009,3082016.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+624,2010,3087200.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+625,2011,3089950.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+626,2012,3092700.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+627,2013,3095450.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+628,2014,3098200.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+629,2015,3100950.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+630,2016,3100950.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+631,2017,3097950.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+632,2018,3097950.0,AG.LND.FRST.K2,USA,United States,North America,High income,Not classified
+633,1990,12412311.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+634,1991,13299016.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+635,1992,14485543.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+636,1993,15816601.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+637,1994,17075728.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+638,1995,18110662.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+639,1996,18853444.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+640,1997,19357126.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+641,1998,19737770.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+642,1999,20170847.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+643,2000,20779957.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+644,2001,21606992.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+645,2002,22600774.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+646,2003,23680871.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+647,2004,24726689.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+648,2005,25654274.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+649,2006,26433058.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+650,2007,27100542.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+651,2008,27722281.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+652,2009,28394806.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+653,2010,29185511.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+654,2011,30117411.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+655,2012,31161378.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+656,2013,32269592.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+657,2014,33370804.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+658,2015,34413603.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+659,2016,35383028.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+660,2017,36296111.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+661,2018,37171922.0,SP.POP.TOTL,AFG,Afghanistan,South Asia,Low income,IDA
+662,1990,103171957.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+663,1991,105599125.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+664,1992,107983708.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+665,1993,110350641.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+666,1994,112737684.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+667,1995,115169933.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+668,1996,117649927.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+669,1997,120160571.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+670,1998,122682818.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+671,1999,125189655.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+672,2000,127657862.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+673,2001,130088709.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+674,2002,132478077.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+675,2003,134791598.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+676,2004,136986429.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+677,2005,139035505.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+678,2006,140921154.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+679,2007,142660381.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+680,2008,144304164.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+681,2009,145924795.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+682,2010,147575433.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+683,2011,149273134.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+684,2012,151005733.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+685,2013,152761413.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+686,2014,154517385.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+687,2015,156256287.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+688,2016,157977151.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+689,2017,159685421.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+690,2018,161376713.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+691,1990,59326.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+692,1991,59021.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+693,1992,58595.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+694,1993,58910.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+695,1994,59320.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+696,1995,59746.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+697,1996,60129.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+698,1997,60497.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+699,1998,60943.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+700,1999,61285.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+701,2000,61833.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+702,2001,62504.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+703,2002,62912.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+704,2003,63325.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+705,2004,63740.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+706,2005,64154.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+707,2006,64523.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+708,2007,64888.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+709,2008,65273.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+710,2009,65636.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+711,2010,65124.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+712,2011,64564.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+713,2012,64798.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+714,2013,65001.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+715,2014,65138.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+716,2015,65237.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+717,2016,64554.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+718,2017,63873.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+719,2018,63919.0,SP.POP.TOTL,BMU,Bermuda,North America,High income,Not classified
+720,1990,530801.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+721,1991,534637.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+722,1992,534525.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+723,1993,532590.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+724,1994,531905.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+725,1995,534629.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+726,1996,541471.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+727,1997,551713.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+728,1998,564378.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+729,1999,577886.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+730,2000,591014.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+731,2001,603643.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+732,2002,616025.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+733,2003,627840.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+734,2004,638809.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+735,2005,648744.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+736,2006,657404.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+737,2007,664873.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+738,2008,671611.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+739,2009,678329.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+740,2010,685502.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+741,2011,693297.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+742,2012,701582.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+743,2013,710235.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+744,2014,719053.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+745,2015,727885.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+746,2016,736706.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+747,2017,745563.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+748,2018,754396.0,SP.POP.TOTL,BTN,Bhutan,South Asia,Lower middle income,IDA
+749,1990,27691138.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+750,1991,28037420.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+751,1992,28371264.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+752,1993,28684764.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+753,1994,29000663.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+754,1995,29302311.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+755,1996,29610218.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+756,1997,29905948.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+757,1998,30155173.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+758,1999,30401286.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+759,2000,30685730.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+760,2001,31020902.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+761,2002,31360079.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+762,2003,31644028.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+763,2004,31940655.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+764,2005,32243753.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+765,2006,32571174.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+766,2007,32889025.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+767,2008,33247118.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+768,2009,33628895.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+769,2010,34004889.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+770,2011,34339328.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+771,2012,34714222.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+772,2013,35082954.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+773,2014,35437435.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+774,2015,35702908.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+775,2016,36109487.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+776,2017,36545295.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+777,2018,37065178.0,SP.POP.TOTL,CAN,Canada,North America,High income,Not classified
+778,1990,873277799.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+779,1991,891273202.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+780,1992,909307018.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+781,1993,927403866.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+782,1994,945601828.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+783,1995,963922586.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+784,1996,982365248.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+785,1997,1000900028.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+786,1998,1019483586.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+787,1999,1038058154.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+788,2000,1056575548.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+789,2001,1075000094.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+790,2002,1093317187.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+791,2003,1111523146.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+792,2004,1129623466.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+793,2005,1147609924.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+794,2006,1165486291.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+795,2007,1183209471.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+796,2008,1200669762.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+797,2009,1217726217.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+798,2010,1234281163.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+799,2011,1250287939.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+800,2012,1265780243.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+801,2013,1280842119.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+802,2014,1295600768.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+803,2015,1310152392.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+804,2016,1324517250.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+805,2017,1338676779.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+806,2018,1352642283.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+807,1990,223159.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+808,1991,229743.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+809,1992,236271.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+810,1993,242596.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+811,1994,248582.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+812,1995,254144.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+813,1996,259178.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+814,1997,263836.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+815,1998,268445.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+816,1999,273522.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+817,2000,279396.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+818,2001,286309.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+819,2002,294185.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+820,2003,302681.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+821,2004,311265.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+822,2005,319604.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+823,2006,327489.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+824,2007,335172.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+825,2008,343448.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+826,2009,353391.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+827,2010,365730.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+828,2011,380493.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+829,2012,397231.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+830,2013,415592.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+831,2014,435018.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+832,2015,454914.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+833,2016,475505.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+834,2017,496398.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+835,2018,515704.0,SP.POP.TOTL,MDV,Maldives,South Asia,Upper middle income,IDA
+836,1990,18905480.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+837,1991,19405506.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+838,1992,19938322.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+839,1993,20489973.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+840,1994,21040899.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+841,1995,21576074.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+842,1996,22090352.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+843,1997,22584772.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+844,1998,23057875.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+845,1999,23509971.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+846,2000,23941099.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+847,2001,24347113.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+848,2002,24725625.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+849,2003,25080880.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+850,2004,25419337.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+851,2005,25744500.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+852,2006,26066687.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+853,2007,26382586.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+854,2008,26666581.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+855,2009,26883531.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+856,2010,27013207.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+857,2011,27041220.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+858,2012,26989160.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+859,2013,26916795.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+860,2014,26905982.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+861,2015,27015033.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+862,2016,27263430.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+863,2017,27632682.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+864,2018,28095712.0,SP.POP.TOTL,NPL,Nepal,South Asia,Lower middle income,IDA
+865,1990,107647918.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+866,1991,110778655.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+867,1992,113911126.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+868,1993,117086680.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+869,1994,120362764.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+870,1995,123776835.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+871,1996,127349293.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+872,1997,131057432.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+873,1998,134843233.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+874,1999,138624625.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+875,2000,142343583.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+876,2001,145978408.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+877,2002,149549695.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+878,2003,153093371.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+879,2004,156664698.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+880,2005,160304007.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+881,2006,164022626.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+882,2007,167808106.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+883,2008,171648984.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+884,2009,175525610.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+885,2010,179424643.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+886,2011,183340168.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+887,2012,187280125.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+888,2013,191260799.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+889,2014,195305012.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+890,2015,199426953.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+891,2016,203631356.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+892,2017,207906210.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+893,2018,212228288.0,SP.POP.TOTL,PAK,Pakistan,South Asia,Lower middle income,Blend
+894,1990,17325769.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+895,1991,17535732.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+896,1992,17736827.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+897,1993,17924827.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+898,1994,18094474.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+899,1995,18242917.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+900,1996,18367290.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+901,1997,18470897.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+902,1998,18564595.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+903,1999,18663293.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+904,2000,18777606.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+905,2001,18911727.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+906,2002,19062476.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+907,2003,19224036.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+908,2004,19387153.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+909,2005,19544988.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+910,2006,19695977.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+911,2007,19842044.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+912,2008,19983984.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+913,2009,20123508.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+914,2010,20261738.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+915,2011,20398496.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+916,2012,20425000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+917,2013,20585000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+918,2014,20778000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+919,2015,20970000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+920,2016,21203000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+921,2017,21444000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+922,2018,21670000.0,SP.POP.TOTL,LKA,Sri Lanka,South Asia,Lower middle income,IBRD
+923,1990,249623000.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+924,1991,252981000.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+925,1992,256514000.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+926,1993,259919000.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+927,1994,263126000.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+928,1995,266278000.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+929,1996,269394000.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+930,1997,272657000.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+931,1998,275854000.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+932,1999,279040000.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+933,2000,282162411.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+934,2001,284968955.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+935,2002,287625193.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+936,2003,290107933.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+937,2004,292805298.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+938,2005,295516599.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+939,2006,298379912.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+940,2007,301231207.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+941,2008,304093966.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+942,2009,306771529.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+943,2010,309327143.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+944,2011,311583481.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+945,2012,313877662.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+946,2013,316059947.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+947,2014,318386329.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+948,2015,320738994.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+949,2016,323071755.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+950,2017,325122128.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+951,2018,326838199.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
