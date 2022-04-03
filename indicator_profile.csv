@@ -1,5 +1,0 @@
-,Topic,Indicator ID,Indicator Name,Action
-0,Health,SP.POP.TOTL,"Population, total",Remove
-1,Environment,AG.LND.TOTL.UR.K2,Urban land area (sq. km),Remove
-2,Environment,EN.ATM.CO2E.KT,CO2 emissions (kt),Remove
-3,Environment,AG.LND.FRST.K2,Forest area (sq. km),Remove
